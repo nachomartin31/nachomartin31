@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 <!--
 **nachomartin31/nachomartin31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
