@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nacho Martín
 I'm a full-stack web developer 
-
+``` javascript
 const Nacho = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript"],
@@ -19,6 +19,7 @@ const Nacho = {
     currentFocus: "Single Page Applications",
     funFact: "I was looking for fun facts but instead I typed "fun cats". Best mistake ever."
 };
+```
 
 
 <!--
