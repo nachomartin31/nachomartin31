@@ -20,6 +20,8 @@ const Nacho = {
     funFact: "I was looking for fun facts but instead I wrote fun cats. Best mistake ever."
 };
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachomartin31&show_icons=true&locale=en&layout=compact" alt="nachomartin31" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachomartin31&show_icons=true&locale=en" alt="nachomartin31" /></p>
 
 
