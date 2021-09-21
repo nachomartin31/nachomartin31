@@ -25,7 +25,7 @@ const Nacho = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachomartin31&show_icons=true&locale=en&layout=compact" alt="nachomartin31" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachomartin31&show_icons=true&locale=en" alt="nachomartin31" /></p>
 <h4> Contact: </h4>
-<a href= "https://www.linkedin.com/in/nacho-mart%C3%ADn-rosa/"><img width=75px height=75px  src="https://img.icons8.com/plasticine/200/000000/linkedin.png"/ alt="linkedIn"></a>
+<a href= "https://www.linkedin.com/in/nacho-mart%C3%ADn-rosa/"><img width=75px height=75px  src="https://img.icons8.com/plasticine/400/000000/linkedin.png"/ alt="linkedIn"></a>
 
 
 <!--
