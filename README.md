@@ -4,7 +4,7 @@ I'm a full-stack web developer
 const Nacho = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "videoGames" "boardGames"],
+    askMeAbout: ["web dev", "tech", "videoGames", "boardGames"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -17,7 +17,7 @@ const Nacho = {
     principies: ["SOLID", "DRY"],
     favArchitecture: "flux",
     currentFocus: "Single Page Applications",
-    funFact: "I was looking for fun facts but instead I wrote "fun cats". Best mistake ever."
+    funFact: "I was looking for fun facts but instead I wrote fun cats. Best mistake ever."
 };
 ```
 
