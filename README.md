@@ -17,7 +17,7 @@ const Nacho = {
     principies: ["SOLID", "DRY"],
     favArchitecture: "flux",
     currentFocus: "Single Page Applications",
-    funFact: "I was looking for fun facts but instead I wrote fun cats. Best mistake ever."
+    funFact: "On a group of 23 people, the odds of two of them having the same birthday are 50.7%"
 };
 ```
 <h3 align="left">Languages and Tools:</h3>
