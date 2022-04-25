@@ -4,13 +4,13 @@ I'm a full-stack web developer
 const Nacho = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "videoGames", "boardGames"],
+    askMeAbout: ["web dev", "tech", "video games", "board games"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
        frontEnd: {
-           js: ["React", "Vue", "EJS"]
+           js: ["React", "Vue", "Next"]
         },
         databases: ["mongo"],
       },
