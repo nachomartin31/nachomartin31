@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nacho Martín
-I'm a full-stack web developer 
+I work mainly as a fronted developer 
 ``` javascript
 const Nacho = {
     pronouns: "He" | "Him",
